@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udemy_unity_proj_2", "udemy_unity_proj_2.csproj", "{19E133E2-DAA0-570E-E136-B61D884E2709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E133E2-DAA0-570E-E136-B61D884E2709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E133E2-DAA0-570E-E136-B61D884E2709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E133E2-DAA0-570E-E136-B61D884E2709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E133E2-DAA0-570E-E136-B61D884E2709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
